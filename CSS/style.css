@@ -1,0 +1,12 @@
+.test {
+   position: relative;
+   width: 500px;
+   height: 500px;
+   border: 1px #000 solid;
+}
+.malina {
+   position: absolute;
+   box-sizing: border-box;
+   bottom: 0;
+   right: 0;
+}
